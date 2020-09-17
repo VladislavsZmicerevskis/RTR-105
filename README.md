@@ -10,7 +10,6 @@ history
     7  whoami
     8  who
     9  exit
-   10  unmae
    11  uname
    12  uname -a
    13  echo
@@ -20,8 +19,6 @@ history
    17  who
    18  last
    19  pwd
-   20  window
-   21  windows
    22  clear
    23  pdw
    24  pwd
@@ -30,6 +27,3 @@ history
    27  /home
    28  /user
    29  history
-   30  man uname
-   31  firefox &
-   32  history
