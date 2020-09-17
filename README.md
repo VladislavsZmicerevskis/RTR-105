@@ -27,3 +27,6 @@ history
 27. /home
 28. /user
 29. history   
+cntr + shift +,+f1,2,3,4,5,6,7
+cntr+,-
+ctrl+alt (p,f,h)
