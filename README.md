@@ -1,8 +1,8 @@
 # RTR-105
 Datormācība (pamatkurss) elektroniskā klade
 history
-    1  VirtualBox --startvm XP
-    2  quartus
+1  VirtualBox --startvm XP
+ 2  quartus
     3  firefox &
     4  firefox &
     5  whoaim
