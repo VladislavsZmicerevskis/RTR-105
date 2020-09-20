@@ -25,7 +25,7 @@
 25. man + command (описание комманды)   
 26. tty  (print the file name of the terminal connected) 
 27. **Shortcut Keys** 
-1.cntr + shift +,+F1,F2,F3,F4,F5,F6,F7 (switching between virtual terminals)
-2.cntr+,- (увиличение или же уменьшение командной консоли) 
-3.ctrl+alt (p,f,h)
-4.ctrl+L  (clean terminal screen) 
+28.cntr + shift +,+F1,F2,F3,F4,F5,F6,F7 (switching between virtual terminals)
+29.cntr+,- (увиличение или же уменьшение командной консоли) 
+30.ctrl+alt (p,f,h)
+31.ctrl+L  (clean terminal screen) 
