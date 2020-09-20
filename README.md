@@ -25,6 +25,7 @@ ash  (Almquist shell)
 man + command (описание комманды)   
 tty  (print the file name of the terminal connected) 
 **Shortcut Keys** 
-cntr + shift +,+f1,2,3,4,5,6,7
-cntr+,-
-ctrl+alt (p,f,h)
+1.cntr + shift +,+F1,F2,F3,F4,F5,F6,F7 (switching between virtual terminals)
+2.cntr+,- (увиличение или же уменьшение командной консоли) 
+3.ctrl+alt (p,f,h)
+4.ctrl+L  (clean terminal screen)
