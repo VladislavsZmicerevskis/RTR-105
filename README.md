@@ -1,4 +1,4 @@
-Datormācība (pamatkurss) elektroniskā klade
+ Datormācība (pamatkurss) elektroniskā klade
 'Shell commands'
 history
 VirtualBox --startvm XP
