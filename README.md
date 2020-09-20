@@ -1,32 +1,30 @@
 Datormācība (pamatkurss) elektroniskā klade
-
+'Shell commands'
 history
-1. VirtualBox --startvm XP
-2. quartus
-3. firefox &
-4. firefox &
-5. whoaim
-6. whoaimi
-7. whoami
-8. who
-9. exit
-11. uname
-12. uname -a
-13. echo
-14. echo $0
-15. sh
-16. whoami
-17. who
-18. last
-19. pwd
-22. clear
-23. pdw
-24. pwd
-25. clear
-26. pwd
-27. /home
-28. /user
-29. history   
+VirtualBox --startvm XP
+quartus
+firefox & (open browesr firefox )
+exit
+uname (Выводит некую основную информацию о системе. если задать параметр -a , можно получить информацию о ядре, имени хоста и узнать архитектуру процессора)
+uname -a
+echo
+echo $0
+sh
+man uname  (Команда выводит имя пользователя)  
+whoami(отображает собственное имя пользователя)
+who (сообщает информацию о пользователе)
+last (лог заходящих в систему)
+pdw
+pwd (выводит путь к текущей папке)
+clear (очистить командную строку) 
+pwd
+/home
+/user
+history   
+ash  (Almquist shell)
+man + command (описание комманды)   
+tty  (print the file name of the terminal connected) 
+**Shortcut Keys** 
 30. cntr + shift +,+f1,2,3,4,5,6,7
 31. cntr+,-
 32. ctrl+alt (p,f,h)
