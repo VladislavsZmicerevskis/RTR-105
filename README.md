@@ -28,4 +28,5 @@
 28.cntr + shift +,+F1,F2,F3,F4,F5,F6,F7 (switching between virtual terminals)
 29.cntr+,- (увиличение или же уменьшение командной консоли) 
 30.ctrl+alt (p,f,h)
-31.ctrl+L  (clean terminal screen)  
+31.ctrl+L  (clean terminal screen)
+
