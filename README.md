@@ -53,10 +53,10 @@
  22  man ls
  23  cd ABC/
  24  pwd
- 25  mkdir ABC
- 26  cd ABC/
+ 25  mkdir ABC (create new folder)
+ 26  cd ABC/ (open)
  27  pwd
- 28  tree
+ 28  tree (tree of all folders)
  29  pwd
  30  cd .
  31  pwd
@@ -69,12 +69,8 @@
    38  ls
    39  ls -a
    40  man ls
-   41  clear
    42  ls -a -l
-   43  clear
    44  ls -al
-   45  cela
-   46  clear
    47  tree
    48  clear
    49  pwd
@@ -103,26 +99,22 @@
    72  clear
    73  pwd
    74  ls
-   75  rmdir ABC/
+   75  rmdir ABC/ (delete folder)
    76  ls
    77  clear
    78  mkdir EFG
    79  mkdir HIJ
    80  ls -l
-   81  clear
-   82  touch a.txt
+   82  touch a.txt (black folder)
    83  ls -lt
-   84  celar
-   85  clear
-   86  echo
+   86  echo (repeat)
    87  echo dkfgjdklfw
    88  echo 12345 > b.txt
    89  ls -ls
    90  ls -lt
    91  echo 12345 > b.txt
    92  ls -lt
-   93  celar
-   94  cat b.txt
+   94  cat b.txt (reading text file)
    95  echo 67890 > b.txt
    96  ls -lt
    97  echo abcde >> b.txt
@@ -131,16 +123,16 @@
   100  echo fghij >> c.txt
   101  ls -lt
   102  clear
-  103  nano d.txt
+  103  nano d.txt (opening modified menu)
   104  hexdump -C dd.txt
   105  ls -lt
-  106  rm a.txt
+  106  rm a.txt (file delete)
   107  mv HIJ KLM
   108  ls -lt
   109  clear
   110  mv b.txt b.text
   111  ls -lt
-  112  rm *.txt
+  112  rm *.txt (delete all txt)
   113  ls -lt
   114  clear
   115  pwd
@@ -159,8 +151,6 @@
   128  cat b1.text
   129  pwd
   130  ls -l
-  131  lz
-  132  ls
   133  ls -l /home/user/EFG
   134  pwd
   135  ls -l ../EFG
