@@ -30,33 +30,33 @@
 30. ctrl+alt (p,f,h)
 31. ctrl+L  (clean terminal screen)
 
- 2  quartus
- 3  ls
- 4  mkdir ABC
- 5  ls -l
- 6  cd ABC/
- 7  wpd
- 8  pwd
- 9  tree
- 10  cd
- 11  pwd
- 12  cd exit
- 13  cd..
- 14  cd ..
- 15  ls -la
- 16  cd ..
- 17  ls -la
- 18  pwd
- 19  cd.
- 20  celar
- 21  clear
- 22  man ls
- 23  cd ABC/
- 24  pwd
- 25  mkdir ABC (create new folder)
- 26  cd ABC/ (open)
- 27  pwd
- 28  tree (tree of all folders)
+ 2  quartus  
+ 3  ls  
+ 4  mkdir ABC  
+ 5  ls -l  
+ 6  cd ABC/  
+ 7  wpd  
+ 8  pwd  
+ 9  tree  
+ 10  cd  
+ 11  pwd  
+ 12  cd exit  
+ 13  cd..  
+ 14  cd ..  
+ 15  ls -la  
+ 16  cd ..  
+ 17  ls -la  
+ 18  pwd  
+ 19  cd.  
+ 20  celar  
+ 21  clear  
+ 22  man ls  
+ 23  cd ABC/  
+ 24  pwd  
+ 25  mkdir ABC (create new folder)  
+ 26  cd ABC/ (open)  
+ 27  pwd  
+ 28  tree (tree of all folders)  
  29  pwd
  30  cd .
  31  pwd
