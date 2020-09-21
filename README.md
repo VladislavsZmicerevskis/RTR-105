@@ -29,3 +29,155 @@
 29. cntr+,- (увиличение или же уменьшение командной консоли) 
 30. ctrl+alt (p,f,h)
 31. ctrl+L  (clean terminal screen)
+
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  mkdir ABC
+    5  ls -l
+    6  cd ABC/
+    7  wpd
+    8  pwd
+    9  tree
+   10  cd
+   11  pwd
+   12  cd exit
+   13  cd..
+   14  cd ..
+   15  ls -la
+   16  cd ..
+   17  ls -la
+   18  pwd
+   19  cd.
+   20  celar
+   21  clear
+   22  man ls
+   23  cd ABC/
+   24  pwd
+   25  mkdir ABC
+   26  cd ABC/
+   27  pwd
+   28  tree
+   29  pwd
+   30  cd .
+   31  pwd
+   32  cd ..
+   33  wpd
+   34  pwd
+   35  whoami
+   36  who
+   37  pwd
+   38  ls
+   39  ls -a
+   40  man ls
+   41  clear
+   42  ls -a -l
+   43  clear
+   44  ls -al
+   45  cela
+   46  clear
+   47  tree
+   48  clear
+   49  pwd
+   50  cd ABC
+   51  pwd
+   52  tree
+   53  cd .
+   54  wpd
+   55  pwd
+   56  cd ..
+   57  pwd
+   58  ls
+   59  cd ABC
+   60  pwd
+   61  cd ..
+   62  ls -la
+   63  pwd
+   64  cd
+   65  pwd
+   66  cd /
+   67  pwd
+   68  cd /home/user/
+   69  pwd
+   70  cd ~
+   71  pwd
+   72  clear
+   73  pwd
+   74  ls
+   75  rmdir ABC/
+   76  ls
+   77  clear
+   78  mkdir EFG
+   79  mkdir HIJ
+   80  ls -l
+   81  clear
+   82  touch a.txt
+   83  ls -lt
+   84  celar
+   85  clear
+   86  echo
+   87  echo dkfgjdklfw
+   88  echo 12345 > b.txt
+   89  ls -ls
+   90  ls -lt
+   91  echo 12345 > b.txt
+   92  ls -lt
+   93  celar
+   94  cat b.txt
+   95  echo 67890 > b.txt
+   96  ls -lt
+   97  echo abcde >> b.txt
+   98  ls -lt
+   99  cat b.txt
+  100  echo fghij >> c.txt
+  101  ls -lt
+  102  clear
+  103  nano d.txt
+  104  hexdump -C dd.txt
+  105  ls -lt
+  106  rm a.txt
+  107  mv HIJ KLM
+  108  ls -lt
+  109  clear
+  110  mv b.txt b.text
+  111  ls -lt
+  112  rm *.txt
+  113  ls -lt
+  114  clear
+  115  pwd
+  116  ls -lt
+  117  cp b.text ./KLM/b1.text
+  118  ls -lt
+  119  rm b.text
+  120  ls -lt
+  121  cp KLM/b1.text EFG/b2.txt
+  122  ls -l KLM/
+  123  ls -lt
+  124  ls -l KLM/
+  125  cd KLM/
+  126  ls -lt
+  127  /KLM$ ls -lt
+  128  cat b1.text
+  129  pwd
+  130  ls -l
+  131  lz
+  132  ls
+  133  ls -l /home/user/EFG
+  134  pwd
+  135  ls -l ../EFG
+  136  ls -l /home/user/EFG
+  137  ls -l ../EFG
+  138  pwd
+  139  ls -lt
+  140  rmdir EFG/
+  141  ma rmdir
+  142  clear
+  143  man rmdir
+  144  rmdir --ignore-faol-on-non-empty
+  145  man rm
+  146  rm -r EFG/
+  147  ls -l
+  148  ls -lt
+  149  rm -r EFG
+  150  ls -lt
+  151  rm -r KLM/
