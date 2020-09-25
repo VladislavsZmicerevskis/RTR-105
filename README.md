@@ -168,4 +168,21 @@
   149  rm -r EFG  
   150  ls -lt  
   151  rm -r KLM/  
-
+mkdir ABC//make directory w name ABC  
+ cd ABC/ //change directory to ABC  
+ cd //home  
+ cd . //enter folder  
+ cd .. //exit folder  
+cd / //root  
+ cd ~ //home  
+ rmdir ABC //remove directory w/o files inside  
+ touch a.txt // make txt file w name a  
+ cat (file name).txt // read txt files  
+ > //writes text in files if there already is text replaces it  
+ >> //adds text in txt file  
+ nano (name.txt) //text redactor  
+ hexdump -C (name.txt) //show hex code  
+ rm (name.txt) // removes file -r //removes dir + files inside  
+ mv (WHAT) (WHERE) //move + rename  
+ cp name.text DIR/othername.text //copy  
+ ls -lt ../DIRNAME //look into other folder w/o closing already used directory  
