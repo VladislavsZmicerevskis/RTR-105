@@ -186,3 +186,17 @@ cd / //root
  mv (WHAT) (WHERE) //move + rename  
  cp name.text DIR/othername.text //copy  
  ls -lt ../DIRNAME //look into other folder w/o closing already used directory  
+ 
+ pwd  
+    5  echo $echo  
+    6  ls download  
+    7  ls download/  
+    8  echo $?  
+    9  nano a.sh  
+   10  wpd  
+   11  pwd  
+   12  ls -  
+   13  ls -l  
+   14  git clone  
+   15  history  
+
