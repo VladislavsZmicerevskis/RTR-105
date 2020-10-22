@@ -200,3 +200,24 @@ cd / //root
    14  git clone  
    15  history  
 
+
+
+ PU1/PT1: 40 000 000 000   
+void main()    
+{  
+  
+  printf ("Mainigo reizinasana: a x b\n");  
+  scanf ("%ld",&a);  
+  printf ("Mainigais - a vertiba = %ld\n ,a);  
+long int b;  
+  printf ("Pieskirt vertibu mainigajam - b :");  
+  scanf ("%ld" ,&b);  
+  printf ("Mainigais - a vertiba == %ld\n" ,b);  
+  
+long int c=a*b;  
+  printf ("%ld x %ld = %ld\n" ,a,b,c);  
+  
+
+ 
+ 
+
